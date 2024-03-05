@@ -1,0 +1,1274 @@
+Processing data for 2023-09-18
+High: nan 0.786: nan Mid:nan 0.236: nan Low: nan PrevTrend: Neutral
+Processing data for 2023-09-19
+High: 221.46 0.786: 220.078 Mid:218.23 0.236: 216.525 Low: 215.0 PrevTrend: Neutral
+BUY position triggered at 2023-09-19 02:17 during Neutral trend
+BUY position terminated at 09:26 Prices: 216.525 -> 219.232 Profit: 2.7069999999999936
+
+BUY position triggered at 2023-09-19 10:27 during Neutral trend
+Processing data for 2023-09-20
+High: 219.99 0.786: 218.988 Mid:217.65 0.236: 216.414 Low: 215.31 PrevTrend: Neutral
+BUY position terminated at 09:47 Prices: 218.23 -> 215.502 Profit: -2.72799999999998
+
+BUY position triggered at 2023-09-20 09:55 during Neutral trend
+BUY position terminated at 22:39 Prices: 215.31 -> 218.001 Profit: 2.6910000000000025
+
+Processing data for 2023-09-21
+High: 219.04 0.786: 217.7 Mid:215.91 0.236: 214.257 Low: 212.78 PrevTrend: Neutral
+BUY position triggered at 2023-09-21 00:03 during Neutral trend
+BUY position terminated at 09:19 Prices: 214.257 -> 211.579 Profit: -2.6779999999999973
+
+Processing data for 2023-09-22
+High: 215.29 0.786: 213.987 Mid:212.245 0.236: 210.637 Low: 209.2 PrevTrend: Neutral
+BUY position triggered at 2023-09-22 00:20 during Neutral trend
+Processing data for 2023-09-23
+High: 212.34 0.786: 211.775 Mid:211.02 0.236: 210.323 Low: 209.7 PrevTrend: Neutral
+Processing data for 2023-09-24
+High: 211.79 0.786: 211.394 Mid:210.865 0.236: 210.377 Low: 209.94 PrevTrend: Neutral
+BUY position terminated at 23:27 Prices: 210.637 -> 208.004 Profit: -2.6330000000000098
+
+Processing data for 2023-09-25
+High: 211.36 0.786: 210.213 Mid:208.68 0.236: 207.265 Low: 206.0 PrevTrend: Neutral
+BUY position triggered at 2023-09-25 00:22 during Neutral trend
+BUY position terminated at 07:50 Prices: 207.265 -> 209.856 Profit: 2.591000000000008
+
+BUY position triggered at 2023-09-25 10:00 during Neutral trend
+Processing data for 2023-09-26
+High: 210.69 0.786: 209.798 Mid:208.605 0.236: 207.504 Low: 206.52 PrevTrend: Neutral
+BUY position terminated at 01:51 Prices: 208.68 -> 211.288 Profit: 2.608000000000004
+
+Processing data for 2023-09-27
+High: 214.0 0.786: 213.105 Mid:211.91 0.236: 210.806 Low: 209.82 PrevTrend: Neutral
+BUY position triggered at 2023-09-27 03:33 during Neutral trend
+BUY position terminated at 11:36 Prices: 213.105 -> 215.769 Profit: 2.6640000000000157
+
+BUY position triggered at 2023-09-27 14:25 during Neutral trend
+Processing data for 2023-09-28
+High: 216.13 0.786: 214.929 Mid:213.325 0.236: 211.844 Low: 210.52 PrevTrend: Neutral
+BUY position terminated at 14:48 Prices: 213.105 -> 215.769 Profit: 2.6640000000000157
+
+BUY position triggered at 2023-09-28 15:02 during Neutral trend
+Processing data for 2023-09-29
+High: 217.2 0.786: 216.006 Mid:214.41 0.236: 212.937 Low: 211.62 PrevTrend: Neutral
+BUY position terminated at 07:39 Prices: 214.929 -> 217.616 Profit: 2.687000000000012
+
+SELL position triggered at 2023-09-29 07:43 during Neutral trend
+Processing data for 2023-09-30
+High: 217.62 0.786: 216.944 Mid:216.04 0.236: 215.206 Low: 214.46 PrevTrend: Neutral
+SELL position terminated at 01:40 Prices: 217.2 -> 214.485 Profit: 2.714999999999975
+
+BUY position triggered at 2023-09-30 02:00 during Neutral trend
+Processing data for 2023-10-01
+High: 216.59 0.786: 216.057 Mid:215.345 0.236: 214.688 Low: 214.1 PrevTrend: Neutral
+BUY position terminated at 22:17 Prices: 214.46 -> 217.141 Profit: 2.680999999999983
+
+Processing data for 2023-10-02
+High: 219.93 0.786: 218.475 Mid:216.53 0.236: 214.735 Low: 213.13 PrevTrend: Neutral
+BUY position triggered at 2023-10-02 00:00 during Neutral trend
+BUY position terminated at 08:13 Prices: 218.475 -> 221.206 Profit: 2.7309999999999945
+
+SELL position triggered at 2023-10-02 09:10 during Neutral trend
+SELL position terminated at 15:49 Prices: 219.93 -> 217.181 Profit: 2.7489999999999952
+
+BUY position triggered at 2023-10-02 15:57 during Neutral trend
+BUY position terminated at 18:39 Prices: 216.53 -> 213.823 Profit: -2.7069999999999936
+
+BUY position triggered at 2023-10-02 18:50 during Neutral trend
+Processing data for 2023-10-03
+High: 221.73 0.786: 219.902 Mid:217.46 0.236: 215.205 Low: 213.19 PrevTrend: Neutral
+Processing data for 2023-10-04
+High: 215.92 0.786: 215.154 Mid:214.13 0.236: 213.185 Low: 212.34 PrevTrend: Neutral
+BUY position terminated at 00:31 Prices: 214.735 -> 212.051 Profit: -2.684000000000026
+
+BUY position triggered at 2023-10-04 01:13 during Neutral trend
+Processing data for 2023-10-05
+High: 213.83 0.786: 213.179 Mid:212.31 0.236: 211.507 Low: 210.79 PrevTrend: Neutral
+Processing data for 2023-10-06
+High: 214.09 0.786: 213.273 Mid:212.18 0.236: 211.172 Low: 210.27 PrevTrend: Neutral
+Processing data for 2023-10-07
+High: 214.69 0.786: 213.74 Mid:212.47 0.236: 211.298 Low: 210.25 PrevTrend: Neutral
+Processing data for 2023-10-08
+High: 213.99 0.786: 213.485 Mid:212.81 0.236: 212.187 Low: 211.63 PrevTrend: Neutral
+BUY position terminated at 10:49 Prices: 212.34 -> 209.686 Profit: -2.6539999999999964
+
+BUY position triggered at 2023-10-08 13:48 during Neutral trend
+Processing data for 2023-10-09
+High: 213.0 0.786: 212.086 Mid:210.865 0.236: 209.738 Low: 208.73 PrevTrend: Neutral
+BUY position terminated at 09:49 Prices: 212.187 -> 209.535 Profit: -2.6520000000000152
+
+BUY position triggered at 2023-10-09 09:50 during Neutral trend
+BUY position terminated at 11:19 Prices: 208.73 -> 206.121 Profit: -2.6089999999999804
+
+Processing data for 2023-10-10
+High: 212.31 0.786: 209.982 Mid:206.87 0.236: 203.998 Low: 201.43 PrevTrend: Neutral
+SELL position triggered at 2023-10-10 02:52 during Neutral trend
+SELL position terminated at 09:08 Prices: 206.87 -> 209.456 Profit: -2.5859999999999843
+
+SELL position triggered at 2023-10-10 09:52 during Neutral trend
+Trade Deleted
+BUY position triggered at 2023-10-10 09:53 during Neutral trend
+BUY position terminated at 11:34 Prices: 209.982 -> 207.357 Profit: -2.625
+
+Processing data for 2023-10-11
+High: 215.0 0.786: 212.98 Mid:210.28 0.236: 207.788 Low: 205.56 PrevTrend: Neutral
+BUY position triggered at 2023-10-11 00:41 during Neutral trend
+BUY position terminated at 02:34 Prices: 207.788 -> 205.191 Profit: -2.5970000000000084
+
+BUY position triggered at 2023-10-11 03:43 during Neutral trend
+BUY position terminated at 10:24 Prices: 205.56 -> 208.13 Profit: 2.569999999999993
+
+BUY position triggered at 2023-10-11 15:27 during Neutral trend
+Processing data for 2023-10-12
+High: 208.88 0.786: 207.87 Mid:206.52 0.236: 205.274 Low: 204.16 PrevTrend: Neutral
+BUY position terminated at 09:57 Prices: 205.56 -> 202.99 Profit: -2.569999999999993
+
+BUY position triggered at 2023-10-12 10:10 during Neutral trend
+BUY position terminated at 11:54 Prices: 204.16 -> 206.712 Profit: 2.5519999999999925
+
+BUY position triggered at 2023-10-12 12:30 during Neutral trend
+Processing data for 2023-10-13
+High: 207.47 0.786: 206.421 Mid:205.02 0.236: 203.726 Low: 202.57 PrevTrend: Neutral
+BUY position terminated at 21:01 Prices: 205.274 -> 207.84 Profit: 2.5660000000000025
+
+SELL position triggered at 2023-10-13 21:09 during Neutral trend
+Processing data for 2023-10-14
+High: 208.43 0.786: 207.568 Mid:206.415 0.236: 205.351 Low: 204.4 PrevTrend: Neutral
+Processing data for 2023-10-15
+High: 207.14 0.786: 206.845 Mid:206.45 0.236: 206.086 Low: 205.76 PrevTrend: Neutral
+SELL position terminated at 13:27 Prices: 207.47 -> 210.063 Profit: -2.5929999999999893
+
+Processing data for 2023-10-16
+High: 212.0 0.786: 210.793 Mid:209.18 0.236: 207.691 Low: 206.36 PrevTrend: Neutral
+BUY position triggered at 2023-10-16 01:27 during Neutral trend
+BUY position terminated at 05:19 Prices: 210.793 -> 213.428 Profit: 2.634999999999991
+
+SELL position triggered at 2023-10-16 13:50 during Neutral trend
+SELL position terminated at 19:03 Prices: 212.0 -> 214.65 Profit: -2.6500000000000057
+
+Processing data for 2023-10-17
+High: 220.14 0.786: 217.897 Mid:214.9 0.236: 212.133 Low: 209.66 PrevTrend: Neutral
+SELL position triggered at 2023-10-17 00:03 during Neutral trend
+SELL position terminated at 08:50 Prices: 214.9 -> 212.214 Profit: 2.686000000000007
+
+BUY position triggered at 2023-10-17 08:52 during Neutral trend
+BUY position terminated at 13:48 Prices: 212.133 -> 209.481 Profit: -2.6520000000000152
+
+Processing data for 2023-10-18
+High: 215.14 0.786: 213.773 Mid:211.945 0.236: 210.258 Low: 208.75 PrevTrend: Neutral
+SELL position triggered at 2023-10-18 02:29 during Neutral trend
+Processing data for 2023-10-19
+High: 214.08 0.786: 213.207 Mid:212.04 0.236: 210.963 Low: 210.0 PrevTrend: Neutral
+SELL position terminated at 01:44 Prices: 211.945 -> 209.296 Profit: 2.649000000000001
+
+BUY position triggered at 2023-10-19 05:42 during Neutral trend
+Processing data for 2023-10-20
+High: 211.59 0.786: 210.843 Mid:209.845 0.236: 208.924 Low: 208.1 PrevTrend: Neutral
+BUY position terminated at 03:15 Prices: 210.0 -> 212.625 Profit: 2.625
+
+Processing data for 2023-10-21
+High: 216.8 0.786: 215.48 Mid:213.715 0.236: 212.086 Low: 210.63 PrevTrend: Neutral
+BUY position triggered at 2023-10-21 01:02 during Neutral trend
+BUY position terminated at 17:40 Prices: 212.086 -> 214.737 Profit: 2.650999999999982
+
+BUY position triggered at 2023-10-21 18:01 during Neutral trend
+Processing data for 2023-10-22
+High: 215.99 0.786: 215.027 Mid:213.74 0.236: 212.552 Low: 211.49 PrevTrend: Neutral
+BUY position terminated at 22:44 Prices: 215.48 -> 218.174 Profit: 2.694000000000017
+
+Processing data for 2023-10-23
+High: 218.82 0.786: 217.72 Mid:216.25 0.236: 214.893 Low: 213.68 PrevTrend: Neutral
+BUY position triggered at 2023-10-23 00:07 during Neutral trend
+BUY position terminated at 02:34 Prices: 217.72 -> 220.442 Profit: 2.7220000000000084
+
+SELL position triggered at 2023-10-23 09:49 during Neutral trend
+SELL position terminated at 19:00 Prices: 218.82 -> 221.555 Profit: -2.7350000000000136
+
+Processing data for 2023-10-24
+High: 231.73 0.786: 228.588 Mid:224.39 0.236: 220.514 Low: 217.05 PrevTrend: Bullish
+SELL position triggered at 2023-10-24 00:06 during Bullish trend
+SELL position terminated at 00:34 Prices: 228.588 -> 231.445 Profit: -2.8569999999999993
+
+BUY position triggered at 2023-10-24 00:42 during Bullish trend
+BUY position terminated at 02:25 Prices: 231.73 -> 234.627 Profit: 2.89700000000002
+
+BUY position triggered at 2023-10-24 03:48 during Bullish trend
+BUY position terminated at 05:49 Prices: 231.73 -> 228.833 Profit: -2.8969999999999914
+
+SELL position triggered at 2023-10-24 15:30 during Bullish trend
+SELL position terminated at 15:40 Prices: 224.39 -> 221.585 Profit: 2.8049999999999784
+
+SELL position triggered at 2023-10-24 15:51 during Bullish trend
+SELL position terminated at 23:03 Prices: 224.39 -> 227.195 Profit: -2.805000000000007
+
+Processing data for 2023-10-25
+High: 238.46 0.786: 234.828 Mid:229.975 0.236: 225.495 Low: 221.49 PrevTrend: Bullish
+Processing data for 2023-10-26
+High: 229.32 0.786: 227.674 Mid:225.475 0.236: 223.445 Low: 221.63 PrevTrend: Neutral
+BUY position triggered at 2023-10-26 00:33 during Neutral trend
+BUY position terminated at 07:20 Prices: 223.445 -> 226.238 Profit: 2.7930000000000064
+
+BUY position triggered at 2023-10-26 07:35 during Neutral trend
+BUY position terminated at 09:27 Prices: 227.674 -> 224.828 Profit: -2.8460000000000036
+
+SELL position triggered at 2023-10-26 09:33 during Neutral trend
+SELL position terminated at 14:32 Prices: 225.475 -> 222.657 Profit: 2.8179999999999836
+
+BUY position triggered at 2023-10-26 14:34 during Neutral trend
+BUY position terminated at 14:38 Prices: 221.63 -> 218.86 Profit: -2.769999999999982
+
+BUY position triggered at 2023-10-26 21:12 during Neutral trend
+Processing data for 2023-10-27
+High: 228.49 0.786: 226.374 Mid:223.545 0.236: 220.934 Low: 218.6 PrevTrend: Bullish
+BUY position terminated at 01:52 Prices: 223.445 -> 220.652 Profit: -2.7930000000000064
+
+SELL position triggered at 2023-10-27 05:18 during Bullish trend
+SELL position terminated at 06:11 Prices: 223.545 -> 226.339 Profit: -2.794000000000011
+
+SELL position triggered at 2023-10-27 06:12 during Bullish trend
+SELL position terminated at 07:53 Prices: 226.374 -> 223.544 Profit: 2.829999999999984
+
+BUY position triggered at 2023-10-27 10:49 during Bullish trend
+BUY position terminated at 12:00 Prices: 226.374 -> 229.204 Profit: 2.8300000000000125
+
+BUY position triggered at 2023-10-27 12:01 during Bullish trend
+BUY position terminated at 14:09 Prices: 228.49 -> 231.346 Profit: 2.8559999999999945
+
+BUY position triggered at 2023-10-27 14:13 during Bullish trend
+BUY position terminated at 14:23 Prices: 228.49 -> 225.634 Profit: -2.856000000000023
+
+SELL position triggered at 2023-10-27 14:24 during Bullish trend
+SELL position terminated at 17:07 Prices: 226.374 -> 223.544 Profit: 2.829999999999984
+
+Processing data for 2023-10-28
+High: 233.0 0.786: 230.22 Mid:226.505 0.236: 223.076 Low: 220.01 PrevTrend: Bullish
+SELL position triggered at 2023-10-28 01:32 during Bullish trend
+Processing data for 2023-10-29
+High: 228.71 0.786: 227.73 Mid:226.42 0.236: 225.211 Low: 224.13 PrevTrend: Bullish
+SELL position terminated at 01:23 Prices: 226.505 -> 223.674 Profit: 2.830999999999989
+
+SELL position triggered at 2023-10-29 12:12 during Bullish trend
+Processing data for 2023-10-30
+High: 228.29 0.786: 227.286 Mid:225.945 0.236: 224.707 Low: 223.6 PrevTrend: Bullish
+SELL position terminated at 14:04 Prices: 226.42 -> 229.25 Profit: -2.8300000000000125
+
+BUY position triggered at 2023-10-30 14:28 during Bullish trend
+Processing data for 2023-10-31
+High: 229.39 0.786: 228.367 Mid:227.0 0.236: 225.738 Low: 224.61 PrevTrend: Neutral
+BUY position terminated at 08:06 Prices: 228.29 -> 225.436 Profit: -2.853999999999985
+
+BUY position triggered at 2023-10-31 08:08 during Neutral trend
+BUY position terminated at 11:35 Prices: 225.738 -> 228.56 Profit: 2.8220000000000027
+
+BUY position triggered at 2023-10-31 11:36 during Neutral trend
+BUY position terminated at 14:29 Prices: 228.367 -> 225.512 Profit: -2.8549999999999898
+
+BUY position triggered at 2023-10-31 14:31 during Neutral trend
+Processing data for 2023-11-01
+High: 229.49 0.786: 228.18 Mid:226.43 0.236: 224.814 Low: 223.37 PrevTrend: Bullish
+BUY position terminated at 14:52 Prices: 225.738 -> 222.916 Profit: -2.8220000000000027
+
+SELL position triggered at 2023-11-01 18:38 during Bullish trend
+SELL position terminated at 21:03 Prices: 226.43 -> 229.26 Profit: -2.829999999999984
+
+BUY position triggered at 2023-11-01 21:04 during Bullish trend
+Processing data for 2023-11-02
+High: 230.15 0.786: 228.496 Mid:226.285 0.236: 224.244 Low: 222.42 PrevTrend: Bullish
+BUY position terminated at 03:12 Prices: 229.49 -> 232.359 Profit: 2.8689999999999998
+
+BUY position triggered at 2023-11-02 04:51 during Bullish trend
+BUY position terminated at 13:21 Prices: 230.15 -> 233.027 Profit: 2.876999999999981
+
+BUY position triggered at 2023-11-02 14:38 during Bullish trend
+BUY position terminated at 20:01 Prices: 230.15 -> 233.027 Profit: 2.876999999999981
+
+Processing data for 2023-11-03
+High: 233.97 0.786: 232.628 Mid:230.835 0.236: 229.18 Low: 227.7 PrevTrend: Bullish
+BUY position triggered at 2023-11-03 00:13 during Bullish trend
+BUY position terminated at 00:52 Prices: 232.628 -> 229.72 Profit: -2.907999999999987
+
+SELL position triggered at 2023-11-03 06:09 during Bullish trend
+SELL position terminated at 10:01 Prices: 230.835 -> 227.95 Profit: 2.8850000000000193
+
+SELL position triggered at 2023-11-03 23:50 during Bullish trend
+Processing data for 2023-11-04
+High: 232.63 0.786: 231.113 Mid:229.085 0.236: 227.213 Low: 225.54 PrevTrend: Bullish
+SELL position terminated at 08:17 Prices: 230.835 -> 233.72 Profit: -2.884999999999991
+
+Processing data for 2023-11-05
+High: 238.77 0.786: 236.788 Mid:234.14 0.236: 231.695 Low: 229.51 PrevTrend: Bullish
+SELL position triggered at 2023-11-05 00:09 during Bullish trend
+SELL position terminated at 01:37 Prices: 236.788 -> 239.748 Profit: -2.9599999999999795
+
+Processing data for 2023-11-06
+High: 245.64 0.786: 243.65 Mid:240.99 0.236: 238.535 Low: 236.34 PrevTrend: Bullish
+SELL position triggered at 2023-11-06 00:02 during Bullish trend
+SELL position terminated at 12:36 Prices: 243.65 -> 246.696 Profit: -3.0459999999999923
+
+Processing data for 2023-11-07
+High: 256.0 0.786: 252.914 Mid:248.79 0.236: 244.983 Low: 241.58 PrevTrend: Bullish
+SELL position triggered at 2023-11-07 00:33 during Bullish trend
+SELL position terminated at 09:36 Prices: 252.914 -> 249.753 Profit: 3.1610000000000014
+
+SELL position triggered at 2023-11-07 09:37 during Bullish trend
+SELL position terminated at 13:39 Prices: 248.79 -> 245.68 Profit: 3.109999999999985
+
+SELL position triggered at 2023-11-07 20:44 during Bullish trend
+SELL position terminated at 22:36 Prices: 248.79 -> 245.68 Profit: 3.109999999999985
+
+Processing data for 2023-11-08
+High: 255.69 0.786: 252.805 Mid:248.95 0.236: 245.391 Low: 242.21 PrevTrend: Bullish
+Processing data for 2023-11-09
+High: 249.67 0.786: 248.489 Mid:246.91 0.236: 245.453 Low: 244.15 PrevTrend: Bullish
+SELL position triggered at 2023-11-09 00:03 during Bullish trend
+SELL position terminated at 02:40 Prices: 246.91 -> 249.996 Profit: -3.0860000000000127
+
+BUY position triggered at 2023-11-09 03:03 during Bullish trend
+BUY position terminated at 14:52 Prices: 249.67 -> 252.791 Profit: 3.1210000000000093
+
+SELL position triggered at 2023-11-09 16:11 during Bullish trend
+SELL position terminated at 16:12 Prices: 248.489 -> 245.383 Profit: 3.1059999999999945
+
+BUY position triggered at 2023-11-09 21:30 during Bullish trend
+BUY position terminated at 23:52 Prices: 248.489 -> 251.595 Profit: 3.1059999999999945
+
+Processing data for 2023-11-10
+High: 256.36 0.786: 252.624 Mid:247.63 0.236: 243.021 Low: 238.9 PrevTrend: Bullish
+BUY position triggered at 2023-11-10 00:06 during Bullish trend
+BUY position terminated at 02:29 Prices: 252.624 -> 255.782 Profit: 3.1580000000000155
+
+BUY position triggered at 2023-11-10 02:38 during Bullish trend
+BUY position terminated at 06:56 Prices: 256.36 -> 253.156 Profit: -3.2040000000000077
+
+SELL position triggered at 2023-11-10 07:08 during Bullish trend
+SELL position terminated at 14:06 Prices: 252.624 -> 249.466 Profit: 3.157999999999987
+
+Processing data for 2023-11-11
+High: 258.31 0.786: 256.114 Mid:253.18 0.236: 250.471 Low: 248.05 PrevTrend: Bullish
+SELL position triggered at 2023-11-11 15:08 during Bullish trend
+SELL position terminated at 22:11 Prices: 253.18 -> 250.015 Profit: 3.1650000000000205
+
+Processing data for 2023-11-12
+High: 255.38 0.786: 253.379 Mid:250.705 0.236: 248.237 Low: 246.03 PrevTrend: Bullish
+SELL position triggered at 2023-11-12 00:15 during Bullish trend
+SELL position terminated at 00:41 Prices: 250.705 -> 247.571 Profit: 3.1340000000000146
+
+SELL position triggered at 2023-11-12 07:22 during Bullish trend
+SELL position terminated at 13:03 Prices: 250.705 -> 247.571 Profit: 3.1340000000000146
+
+Processing data for 2023-11-13
+High: 252.11 0.786: 250.16 Mid:247.555 0.236: 245.15 Low: 243.0 PrevTrend: Neutral
+BUY position triggered at 2023-11-13 00:00 during Neutral trend
+BUY position terminated at 05:01 Prices: 247.555 -> 244.461 Profit: -3.093999999999994
+
+BUY position triggered at 2023-11-13 05:28 during Neutral trend
+BUY position terminated at 21:17 Prices: 245.15 -> 242.086 Profit: -3.063999999999993
+
+BUY position triggered at 2023-11-13 21:31 during Neutral trend
+Processing data for 2023-11-14
+High: 250.37 0.786: 248.198 Mid:245.295 0.236: 242.615 Low: 240.22 PrevTrend: Neutral
+BUY position terminated at 00:10 Prices: 243.0 -> 239.962 Profit: -3.038000000000011
+
+BUY position triggered at 2023-11-14 00:38 during Neutral trend
+BUY position terminated at 05:07 Prices: 240.22 -> 243.223 Profit: 3.0030000000000143
+
+SELL position triggered at 2023-11-14 08:52 during Neutral trend
+SELL position terminated at 09:21 Prices: 245.295 -> 248.361 Profit: -3.0660000000000025
+
+BUY position triggered at 2023-11-14 09:24 during Neutral trend
+BUY position terminated at 10:03 Prices: 248.198 -> 245.096 Profit: -3.102000000000004
+
+BUY position triggered at 2023-11-14 12:43 during Neutral trend
+BUY position terminated at 13:30 Prices: 242.615 -> 245.648 Profit: 3.032999999999987
+
+BUY position triggered at 2023-11-14 18:10 during Neutral trend
+BUY position terminated at 18:51 Prices: 242.615 -> 239.582 Profit: -3.0330000000000155
+
+BUY position triggered at 2023-11-14 19:27 during Neutral trend
+Processing data for 2023-11-15
+High: 249.77 0.786: 246.181 Mid:241.385 0.236: 236.958 Low: 233.0 PrevTrend: Neutral
+BUY position terminated at 00:09 Prices: 240.22 -> 243.223 Profit: 3.0030000000000143
+
+BUY position triggered at 2023-11-15 06:22 during Neutral trend
+BUY position terminated at 12:17 Prices: 246.181 -> 249.258 Profit: 3.076999999999998
+
+SELL position triggered at 2023-11-15 12:26 during Neutral trend
+SELL position terminated at 13:48 Prices: 249.77 -> 252.892 Profit: -3.1219999999999857
+
+Processing data for 2023-11-16
+High: 254.8 0.786: 252.112 Mid:248.52 0.236: 245.204 Low: 242.24 PrevTrend: Neutral
+SELL position triggered at 2023-11-16 00:49 during Neutral trend
+SELL position terminated at 09:06 Prices: 254.8 -> 251.615 Profit: 3.1850000000000023
+
+BUY position triggered at 2023-11-16 09:12 during Neutral trend
+BUY position terminated at 13:15 Prices: 252.112 -> 248.961 Profit: -3.150999999999982
+
+BUY position triggered at 2023-11-16 13:16 during Neutral trend
+BUY position terminated at 15:46 Prices: 248.52 -> 245.414 Profit: -3.106000000000023
+
+BUY position triggered at 2023-11-16 15:47 during Neutral trend
+BUY position terminated at 19:21 Prices: 245.204 -> 242.139 Profit: -3.0649999999999977
+
+BUY position triggered at 2023-11-16 19:46 during Neutral trend
+Processing data for 2023-11-17
+High: 256.12 0.786: 252.692 Mid:248.11 0.236: 243.881 Low: 240.1 PrevTrend: Neutral
+BUY position terminated at 01:36 Prices: 242.24 -> 245.268 Profit: 3.0279999999999916
+
+BUY position triggered at 2023-11-17 03:18 during Neutral trend
+BUY position terminated at 14:50 Prices: 243.881 -> 240.832 Profit: -3.0490000000000066
+
+BUY position triggered at 2023-11-17 15:26 during Neutral trend
+BUY position terminated at 17:04 Prices: 240.1 -> 243.101 Profit: 3.0010000000000048
+
+Processing data for 2023-11-18
+High: 246.04 0.786: 244.416 Mid:242.245 0.236: 240.241 Low: 238.45 PrevTrend: Neutral
+BUY position triggered at 2023-11-18 00:11 during Neutral trend
+BUY position terminated at 05:14 Prices: 244.416 -> 241.361 Profit: -3.055000000000007
+
+BUY position triggered at 2023-11-18 06:46 during Neutral trend
+BUY position terminated at 10:14 Prices: 240.241 -> 243.244 Profit: 3.002999999999986
+
+BUY position triggered at 2023-11-18 13:18 during Neutral trend
+BUY position terminated at 16:12 Prices: 242.245 -> 245.273 Profit: 3.0279999999999916
+
+Processing data for 2023-11-19
+High: 245.38 0.786: 243.923 Mid:241.975 0.236: 240.177 Low: 238.57 PrevTrend: Neutral
+BUY position triggered at 2023-11-19 00:48 during Neutral trend
+BUY position terminated at 23:25 Prices: 243.923 -> 246.972 Profit: 3.0490000000000066
+
+Processing data for 2023-11-20
+High: 247.05 0.786: 245.969 Mid:244.525 0.236: 243.192 Low: 242.0 PrevTrend: Neutral
+BUY position triggered at 2023-11-20 00:28 during Neutral trend
+BUY position terminated at 11:07 Prices: 245.969 -> 249.044 Profit: 3.075000000000017
+
+SELL position triggered at 2023-11-20 12:31 during Neutral trend
+SELL position terminated at 17:28 Prices: 247.05 -> 243.962 Profit: 3.0880000000000223
+
+BUY position triggered at 2023-11-20 17:29 during Neutral trend
+BUY position terminated at 17:30 Prices: 242.0 -> 238.975 Profit: -3.0250000000000057
+
+SELL position triggered at 2023-11-20 17:32 during Neutral trend
+Trade Deleted
+BUY position triggered at 2023-11-20 17:33 during Neutral trend
+BUY position terminated at 17:34 Prices: 244.525 -> 247.582 Profit: 3.056999999999988
+
+Processing data for 2023-11-21
+High: 269.34 0.786: 261.662 Mid:251.4 0.236: 241.928 Low: 233.46 PrevTrend: Neutral
+BUY position triggered at 2023-11-21 00:58 during Neutral trend
+BUY position terminated at 01:30 Prices: 261.662 -> 264.933 Profit: 3.271000000000015
+
+BUY position triggered at 2023-11-21 02:51 during Neutral trend
+BUY position terminated at 05:34 Prices: 261.662 -> 258.391 Profit: -3.270999999999958
+
+BUY position triggered at 2023-11-21 15:03 during Neutral trend
+Trade Deleted
+BUY position triggered at 2023-11-21 15:08 during Neutral trend
+BUY position terminated at 15:12 Prices: 251.4 -> 248.258 Profit: -3.141999999999996
+
+SELL position triggered at 2023-11-21 15:47 during Neutral trend
+Trade Deleted
+SELL position triggered at 2023-11-21 15:51 during Neutral trend
+Trade Deleted
+SELL position triggered at 2023-11-21 15:52 during Neutral trend
+SELL position terminated at 15:59 Prices: 269.34 -> 265.973 Profit: 3.366999999999962
+
+BUY position triggered at 2023-11-21 17:43 during Neutral trend
+BUY position terminated at 17:45 Prices: 241.928 -> 238.904 Profit: -3.024000000000001
+
+BUY position triggered at 2023-11-21 22:25 during Neutral trend
+BUY position terminated at 22:27 Prices: 233.46 -> 230.542 Profit: -2.9180000000000064
+
+Processing data for 2023-11-22
+High: 272.42 0.786: 262.058 Mid:248.21 0.236: 235.427 Low: 224.0 PrevTrend: Neutral
+BUY position triggered at 2023-11-22 04:23 during Neutral trend
+BUY position terminated at 04:56 Prices: 235.427 -> 238.37 Profit: 2.943000000000012
+
+BUY position triggered at 2023-11-22 05:38 during Neutral trend
+BUY position terminated at 07:38 Prices: 235.427 -> 232.484 Profit: -2.9429999999999836
+
+Processing data for 2023-11-23
+High: 238.49 0.786: 235.522 Mid:231.555 0.236: 227.893 Low: 224.62 PrevTrend: Neutral
+SELL position triggered at 2023-11-23 01:28 during Neutral trend
+SELL position terminated at 03:58 Prices: 238.49 -> 235.509 Profit: 2.981000000000023
+
+BUY position triggered at 2023-11-23 03:59 during Neutral trend
+BUY position terminated at 11:22 Prices: 235.522 -> 232.578 Profit: -2.9439999999999884
+
+BUY position triggered at 2023-11-23 15:20 during Neutral trend
+BUY position terminated at 20:27 Prices: 231.555 -> 234.449 Profit: 2.8940000000000055
+
+Processing data for 2023-11-24
+High: 239.42 0.786: 237.468 Mid:234.86 0.236: 232.452 Low: 230.3 PrevTrend: Neutral
+SELL position triggered at 2023-11-24 00:22 during Neutral trend
+SELL position terminated at 22:12 Prices: 234.86 -> 231.924 Profit: 2.936000000000007
+
+BUY position triggered at 2023-11-24 22:16 during Neutral trend
+Processing data for 2023-11-25
+High: 237.0 0.786: 235.84 Mid:234.29 0.236: 232.859 Low: 231.58 PrevTrend: Neutral
+BUY position terminated at 01:53 Prices: 232.452 -> 235.358 Profit: 2.906000000000006
+
+BUY position triggered at 2023-11-25 04:43 during Neutral trend
+Processing data for 2023-11-26
+High: 235.85 0.786: 235.08 Mid:234.05 0.236: 233.1 Low: 232.25 PrevTrend: Neutral
+BUY position terminated at 14:34 Prices: 234.29 -> 231.361 Profit: -2.929000000000002
+
+BUY position triggered at 2023-11-26 14:42 during Neutral trend
+BUY position terminated at 16:25 Prices: 232.25 -> 229.347 Profit: -2.9029999999999916
+
+Processing data for 2023-11-27
+High: 234.5 0.786: 233.058 Mid:231.13 0.236: 229.351 Low: 227.76 PrevTrend: Neutral
+BUY position triggered at 2023-11-27 00:45 during Neutral trend
+BUY position terminated at 02:41 Prices: 233.058 -> 230.145 Profit: -2.9129999999999825
+
+BUY position triggered at 2023-11-27 03:26 during Neutral trend
+BUY position terminated at 10:58 Prices: 229.351 -> 226.484 Profit: -2.8669999999999902
+
+BUY position triggered at 2023-11-27 23:25 during Neutral trend
+Processing data for 2023-11-28
+High: 233.1 0.786: 230.832 Mid:227.8 0.236: 225.002 Low: 222.5 PrevTrend: Neutral
+BUY position terminated at 05:37 Prices: 227.76 -> 224.913 Profit: -2.84699999999998
+
+BUY position triggered at 2023-11-28 05:38 during Neutral trend
+BUY position terminated at 09:43 Prices: 225.002 -> 227.815 Profit: 2.812999999999988
+
+SELL position triggered at 2023-11-28 09:44 during Neutral trend
+SELL position terminated at 14:31 Prices: 227.8 -> 230.648 Profit: -2.8479999999999848
+
+BUY position triggered at 2023-11-28 16:43 during Neutral trend
+Processing data for 2023-11-29
+High: 231.95 0.786: 230.328 Mid:228.16 0.236: 226.159 Low: 224.37 PrevTrend: Neutral
+BUY position terminated at 14:22 Prices: 230.832 -> 227.947 Profit: -2.884999999999991
+
+SELL position triggered at 2023-11-29 14:24 during Neutral trend
+Processing data for 2023-11-30
+High: 231.45 0.786: 230.352 Mid:228.885 0.236: 227.531 Low: 226.32 PrevTrend: Neutral
+Processing data for 2023-12-01
+High: 229.37 0.786: 228.683 Mid:227.765 0.236: 226.918 Low: 226.16 PrevTrend: Neutral
+Processing data for 2023-12-02
+High: 230.14 0.786: 229.502 Mid:228.65 0.236: 227.863 Low: 227.16 PrevTrend: Neutral
+Processing data for 2023-12-03
+High: 230.57 0.786: 229.68 Mid:228.49 0.236: 227.392 Low: 226.41 PrevTrend: Neutral
+SELL position terminated at 00:49 Prices: 228.16 -> 231.012 Profit: -2.852000000000004
+
+SELL position triggered at 2023-12-03 01:31 during Neutral trend
+SELL position terminated at 05:00 Prices: 230.57 -> 227.688 Profit: 2.882000000000005
+
+BUY position triggered at 2023-12-03 05:07 during Neutral trend
+Processing data for 2023-12-04
+High: 232.04 0.786: 230.765 Mid:229.06 0.236: 227.487 Low: 226.08 PrevTrend: Neutral
+BUY position terminated at 05:10 Prices: 227.392 -> 230.234 Profit: 2.842000000000013
+
+BUY position triggered at 2023-12-04 05:26 during Neutral trend
+BUY position terminated at 06:21 Prices: 229.06 -> 231.923 Profit: 2.8629999999999995
+
+SELL position triggered at 2023-12-04 07:32 during Neutral trend
+SELL position terminated at 09:36 Prices: 232.04 -> 234.94 Profit: -2.9000000000000057
+
+BUY position triggered at 2023-12-04 11:11 during Neutral trend
+BUY position terminated at 11:12 Prices: 230.765 -> 227.88 Profit: -2.884999999999991
+
+BUY position triggered at 2023-12-04 11:13 during Neutral trend
+Trade Deleted
+BUY position triggered at 2023-12-04 11:15 during Neutral trend
+BUY position terminated at 12:22 Prices: 227.487 -> 230.331 Profit: 2.843999999999994
+
+BUY position triggered at 2023-12-04 13:54 during Neutral trend
+BUY position terminated at 19:56 Prices: 229.06 -> 231.923 Profit: 2.8629999999999995
+
+Processing data for 2023-12-05
+High: 237.59 0.786: 234.474 Mid:230.31 0.236: 226.466 Low: 223.03 PrevTrend: Neutral
+BUY position triggered at 2023-12-05 00:55 during Neutral trend
+BUY position terminated at 02:07 Prices: 234.474 -> 231.543 Profit: -2.930999999999983
+
+BUY position triggered at 2023-12-05 07:06 during Neutral trend
+BUY position terminated at 17:53 Prices: 230.31 -> 233.189 Profit: 2.8789999999999907
+
+BUY position triggered at 2023-12-05 20:27 during Neutral trend
+Processing data for 2023-12-06
+High: 235.19 0.786: 233.643 Mid:231.575 0.236: 229.666 Low: 227.96 PrevTrend: Neutral
+BUY position terminated at 07:40 Prices: 230.31 -> 233.189 Profit: 2.8789999999999907
+
+BUY position triggered at 2023-12-06 07:44 during Neutral trend
+BUY position terminated at 11:14 Prices: 233.643 -> 230.722 Profit: -2.9209999999999923
+
+BUY position triggered at 2023-12-06 11:32 during Neutral trend
+BUY position terminated at 21:29 Prices: 229.666 -> 232.537 Profit: 2.8710000000000093
+
+BUY position triggered at 2023-12-06 21:30 during Neutral trend
+Processing data for 2023-12-07
+High: 235.15 0.786: 233.74 Mid:231.855 0.236: 230.115 Low: 228.56 PrevTrend: Neutral
+BUY position terminated at 06:27 Prices: 231.575 -> 234.47 Profit: 2.8950000000000102
+
+BUY position triggered at 2023-12-07 06:44 during Neutral trend
+BUY position terminated at 08:57 Prices: 233.74 -> 230.818 Profit: -2.921999999999997
+
+BUY position triggered at 2023-12-07 09:04 during Neutral trend
+BUY position terminated at 15:41 Prices: 230.115 -> 232.991 Profit: 2.8760000000000048
+
+BUY position triggered at 2023-12-07 19:00 during Neutral trend
+Processing data for 2023-12-08
+High: 235.0 0.786: 233.581 Mid:231.685 0.236: 229.935 Low: 228.37 PrevTrend: Neutral
+BUY position terminated at 03:16 Prices: 231.855 -> 234.753 Profit: 2.897999999999996
+
+SELL position triggered at 2023-12-08 03:19 during Neutral trend
+SELL position terminated at 11:23 Prices: 235.0 -> 232.062 Profit: 2.937999999999988
+
+BUY position triggered at 2023-12-08 11:24 during Neutral trend
+BUY position terminated at 16:58 Prices: 233.581 -> 236.501 Profit: 2.920000000000016
+
+SELL position triggered at 2023-12-08 17:25 during Neutral trend
+SELL position terminated at 19:16 Prices: 235.0 -> 237.938 Profit: -2.937999999999988
+
+Processing data for 2023-12-09
+High: 240.22 0.786: 238.247 Mid:235.61 0.236: 233.176 Low: 231.0 PrevTrend: Neutral
+SELL position triggered at 2023-12-09 00:09 during Neutral trend
+SELL position terminated at 03:10 Prices: 240.22 -> 243.223 Profit: -3.0030000000000143
+
+BUY position triggered at 2023-12-09 17:10 during Neutral trend
+Processing data for 2023-12-10
+High: 245.92 0.786: 243.842 Mid:241.065 0.236: 238.502 Low: 236.21 PrevTrend: Neutral
+BUY position terminated at 06:16 Prices: 238.247 -> 241.225 Profit: 2.97799999999998
+
+BUY position triggered at 2023-12-10 06:25 during Neutral trend
+BUY position terminated at 09:44 Prices: 241.065 -> 238.052 Profit: -3.0130000000000052
+
+BUY position triggered at 2023-12-10 10:16 during Neutral trend
+Processing data for 2023-12-11
+High: 241.51 0.786: 240.493 Mid:239.135 0.236: 237.881 Low: 236.76 PrevTrend: Neutral
+BUY position terminated at 00:33 Prices: 238.502 -> 241.483 Profit: 2.9809999999999945
+
+SELL position triggered at 2023-12-11 00:34 during Neutral trend
+SELL position terminated at 01:08 Prices: 241.51 -> 238.491 Profit: 3.018999999999977
+
+BUY position triggered at 2023-12-11 01:10 during Neutral trend
+BUY position terminated at 02:12 Prices: 237.881 -> 234.907 Profit: -2.9739999999999895
+
+BUY position triggered at 2023-12-11 11:21 during Neutral trend
+BUY position terminated at 12:22 Prices: 236.76 -> 239.719 Profit: 2.959000000000003
+
+BUY position triggered at 2023-12-11 12:23 during Neutral trend
+BUY position terminated at 12:28 Prices: 240.493 -> 243.499 Profit: 3.0060000000000002
+
+BUY position triggered at 2023-12-11 14:28 during Neutral trend
+BUY position terminated at 14:46 Prices: 240.493 -> 243.499 Profit: 3.0060000000000002
+
+SELL position triggered at 2023-12-11 14:58 during Neutral trend
+SELL position terminated at 15:20 Prices: 241.51 -> 244.529 Profit: -3.0190000000000055
+
+BUY position triggered at 2023-12-11 18:24 during Neutral trend
+BUY position terminated at 18:27 Prices: 240.493 -> 237.487 Profit: -3.0060000000000002
+
+BUY position triggered at 2023-12-11 18:28 during Neutral trend
+BUY position terminated at 20:28 Prices: 239.135 -> 242.124 Profit: 2.9890000000000043
+
+Processing data for 2023-12-12
+High: 248.41 0.786: 243.524 Mid:236.995 0.236: 230.968 Low: 225.58 PrevTrend: Bullish
+BUY position triggered at 2023-12-12 00:44 during Bullish trend
+BUY position terminated at 01:53 Prices: 248.41 -> 251.515 Profit: 3.1049999999999898
+
+Processing data for 2023-12-13
+High: 257.13 0.786: 254.673 Mid:251.39 0.236: 248.359 Low: 245.65 PrevTrend: Bullish
+SELL position triggered at 2023-12-13 01:10 during Bullish trend
+SELL position terminated at 02:12 Prices: 251.39 -> 248.248 Profit: 3.141999999999996
+
+SELL position triggered at 2023-12-13 16:25 during Bullish trend
+SELL position terminated at 22:04 Prices: 251.39 -> 254.532 Profit: -3.1420000000000243
+
+BUY position triggered at 2023-12-13 22:06 during Bullish trend
+BUY position terminated at 23:42 Prices: 254.673 -> 251.49 Profit: -3.1829999999999927
+
+Processing data for 2023-12-14
+High: 255.95 0.786: 253.427 Mid:250.055 0.236: 246.942 Low: 244.16 PrevTrend: Bullish
+SELL position triggered at 2023-12-14 01:45 during Bullish trend
+SELL position terminated at 13:30 Prices: 250.055 -> 246.929 Profit: 3.1260000000000048
+
+SELL position triggered at 2023-12-14 13:38 during Bullish trend
+SELL position terminated at 17:43 Prices: 250.055 -> 253.181 Profit: -3.1260000000000048
+
+BUY position triggered at 2023-12-14 17:44 during Bullish trend
+Processing data for 2023-12-15
+High: 254.19 0.786: 252.33 Mid:249.845 0.236: 247.551 Low: 245.5 PrevTrend: Bullish
+BUY position terminated at 05:32 Prices: 253.427 -> 250.259 Profit: -3.1680000000000064
+
+SELL position triggered at 2023-12-15 05:59 during Bullish trend
+SELL position terminated at 13:53 Prices: 249.845 -> 246.722 Profit: 3.1229999999999905
+
+Processing data for 2023-12-16
+High: 253.29 0.786: 250.895 Mid:247.695 0.236: 244.741 Low: 242.1 PrevTrend: Neutral
+BUY position triggered at 2023-12-16 00:01 during Neutral trend
+BUY position terminated at 03:48 Prices: 244.741 -> 247.8 Profit: 3.0589999999999975
+
+BUY position triggered at 2023-12-16 03:49 during Neutral trend
+BUY position terminated at 18:24 Prices: 247.695 -> 244.599 Profit: -3.0960000000000036
+
+BUY position triggered at 2023-12-16 18:26 during Neutral trend
+Processing data for 2023-12-17
+High: 248.42 0.786: 247.136 Mid:245.42 0.236: 243.836 Low: 242.42 PrevTrend: Neutral
+BUY position terminated at 05:34 Prices: 244.741 -> 241.682 Profit: -3.059000000000026
+
+BUY position triggered at 2023-12-17 16:15 during Neutral trend
+BUY position terminated at 23:34 Prices: 242.42 -> 239.39 Profit: -3.030000000000001
+
+Processing data for 2023-12-18
+High: 244.37 0.786: 243.159 Mid:241.54 0.236: 240.046 Low: 238.71 PrevTrend: Neutral
+BUY position triggered at 2023-12-18 00:30 during Neutral trend
+BUY position terminated at 01:36 Prices: 240.046 -> 237.045 Profit: -3.0010000000000048
+
+BUY position triggered at 2023-12-18 14:39 during Neutral trend
+BUY position terminated at 23:57 Prices: 238.71 -> 241.694 Profit: 2.9839999999999804
+
+Processing data for 2023-12-19
+High: 241.88 0.786: 239.768 Mid:236.945 0.236: 234.339 Low: 232.01 PrevTrend: Neutral
+SELL position triggered at 2023-12-19 00:00 during Neutral trend
+SELL position terminated at 01:13 Prices: 241.88 -> 244.904 Profit: -3.024000000000001
+
+Processing data for 2023-12-20
+High: 254.41 0.786: 251.649 Mid:247.96 0.236: 244.554 Low: 241.51 PrevTrend: Neutral
+BUY position triggered at 2023-12-20 01:41 during Neutral trend
+BUY position terminated at 05:50 Prices: 251.649 -> 254.795 Profit: 3.1459999999999866
+
+SELL position triggered at 2023-12-20 06:07 during Neutral trend
+SELL position terminated at 08:02 Prices: 254.41 -> 257.59 Profit: -3.1799999999999784
+
+Processing data for 2023-12-21
+High: 261.45 0.786: 259.051 Mid:255.845 0.236: 252.886 Low: 250.24 PrevTrend: Bullish
+SELL position triggered at 2023-12-21 00:12 during Bullish trend
+SELL position terminated at 08:20 Prices: 259.051 -> 262.289 Profit: -3.2379999999999995
+
+Processing data for 2023-12-22
+High: 274.65 0.786: 270.702 Mid:265.425 0.236: 260.554 Low: 256.2 PrevTrend: Bullish
+SELL position triggered at 2023-12-22 00:06 during Bullish trend
+SELL position terminated at 05:10 Prices: 270.702 -> 274.086 Profit: -3.3840000000000146
+
+BUY position triggered at 2023-12-22 05:11 during Bullish trend
+BUY position terminated at 06:55 Prices: 274.65 -> 271.217 Profit: -3.4329999999999927
+
+SELL position triggered at 2023-12-22 07:36 during Bullish trend
+SELL position terminated at 08:23 Prices: 265.425 -> 268.743 Profit: -3.3179999999999836
+
+Processing data for 2023-12-23
+High: 276.03 0.786: 273.605 Mid:270.365 0.236: 267.374 Low: 264.7 PrevTrend: Bullish
+SELL position triggered at 2023-12-23 00:34 during Bullish trend
+SELL position terminated at 01:54 Prices: 270.365 -> 266.985 Profit: 3.3799999999999955
+
+SELL position triggered at 2023-12-23 17:37 during Bullish trend
+Processing data for 2023-12-24
+High: 271.97 0.786: 270.555 Mid:268.665 0.236: 266.92 Low: 265.36 PrevTrend: Bullish
+SELL position terminated at 05:40 Prices: 270.365 -> 266.985 Profit: 3.3799999999999955
+
+SELL position triggered at 2023-12-24 07:15 during Bullish trend
+SELL position terminated at 22:13 Prices: 268.665 -> 265.307 Profit: 3.358000000000004
+
+Processing data for 2023-12-25
+High: 272.18 0.786: 269.687 Mid:266.355 0.236: 263.279 Low: 260.53 PrevTrend: Neutral
+BUY position triggered at 2023-12-25 00:02 during Neutral trend
+BUY position terminated at 06:18 Prices: 263.279 -> 266.57 Profit: 3.290999999999997
+
+BUY position triggered at 2023-12-25 06:34 during Neutral trend
+BUY position terminated at 08:59 Prices: 266.355 -> 263.026 Profit: -3.3290000000000077
+
+BUY position triggered at 2023-12-25 09:01 during Neutral trend
+BUY position terminated at 12:59 Prices: 263.279 -> 266.57 Profit: 3.290999999999997
+
+Processing data for 2023-12-26
+High: 268.15 0.786: 266.643 Mid:264.63 0.236: 262.771 Low: 261.11 PrevTrend: Neutral
+BUY position triggered at 2023-12-26 01:38 during Neutral trend
+BUY position terminated at 02:52 Prices: 264.63 -> 267.938 Profit: 3.3079999999999927
+
+SELL position triggered at 2023-12-26 02:56 during Neutral trend
+SELL position terminated at 04:01 Prices: 268.15 -> 271.502 Profit: -3.3520000000000323
+
+BUY position triggered at 2023-12-26 05:31 during Neutral trend
+BUY position terminated at 07:53 Prices: 266.643 -> 269.976 Profit: 3.333000000000027
+
+Processing data for 2023-12-27
+High: 302.9 0.786: 294.537 Mid:283.36 0.236: 273.043 Low: 263.82 PrevTrend: Bullish
+SELL position triggered at 2023-12-27 00:41 during Bullish trend
+SELL position terminated at 02:11 Prices: 294.537 -> 290.855 Profit: 3.6819999999999595
+
+BUY position triggered at 2023-12-27 06:39 during Bullish trend
+BUY position terminated at 10:21 Prices: 294.537 -> 298.219 Profit: 3.6820000000000164
+
+BUY position triggered at 2023-12-27 10:28 during Bullish trend
+BUY position terminated at 11:40 Prices: 302.9 -> 306.686 Profit: 3.7860000000000014
+
+Processing data for 2023-12-28
+High: 324.13 0.786: 315.756 Mid:304.565 0.236: 294.235 Low: 285.0 PrevTrend: Bullish
+BUY position triggered at 2023-12-28 00:45 during Bullish trend
+BUY position terminated at 04:25 Prices: 324.13 -> 328.182 Profit: 4.052000000000021
+
+BUY position triggered at 2023-12-28 05:08 during Bullish trend
+BUY position terminated at 08:15 Prices: 324.13 -> 328.182 Profit: 4.052000000000021
+
+BUY position triggered at 2023-12-28 14:45 during Bullish trend
+BUY position terminated at 14:59 Prices: 324.13 -> 328.182 Profit: 4.052000000000021
+
+BUY position triggered at 2023-12-28 20:28 during Bullish trend
+Processing data for 2023-12-29
+High: 337.73 0.786: 333.765 Mid:328.465 0.236: 323.573 Low: 319.2 PrevTrend: Bullish
+BUY position terminated at 00:31 Prices: 324.13 -> 320.078 Profit: -4.052000000000021
+
+Processing data for 2023-12-30
+High: 325.25 0.786: 321.229 Mid:315.855 0.236: 310.894 Low: 306.46 PrevTrend: Bullish
+SELL position triggered at 2023-12-30 01:25 during Bullish trend
+SELL position terminated at 02:52 Prices: 315.855 -> 311.907 Profit: 3.948000000000036
+
+SELL position triggered at 2023-12-30 04:33 during Bullish trend
+SELL position terminated at 15:10 Prices: 315.855 -> 319.803 Profit: -3.947999999999979
+
+Processing data for 2023-12-31
+High: 320.48 0.786: 318.631 Mid:316.16 0.236: 313.879 Low: 311.84 PrevTrend: Bullish
+SELL position triggered at 2023-12-31 00:00 during Bullish trend
+SELL position terminated at 04:16 Prices: 316.16 -> 320.112 Profit: -3.951999999999998
+
+BUY position triggered at 2023-12-31 04:19 during Bullish trend
+BUY position terminated at 06:23 Prices: 320.48 -> 324.486 Profit: 4.005999999999972
+
+SELL position triggered at 2023-12-31 10:23 during Bullish trend
+SELL position terminated at 20:13 Prices: 318.631 -> 314.648 Profit: 3.9829999999999472
+
+Processing data for 2024-01-01
+High: 324.79 0.786: 320.85 Mid:315.585 0.236: 310.725 Low: 306.38 PrevTrend: Bullish
+Processing data for 2024-01-02
+High: 315.37 0.786: 313.504 Mid:311.01 0.236: 308.708 Low: 306.65 PrevTrend: Bullish
+SELL position triggered at 2024-01-02 00:00 during Bullish trend
+SELL position terminated at 00:43 Prices: 313.504 -> 317.423 Profit: -3.9189999999999827
+
+BUY position triggered at 2024-01-02 14:40 during Bullish trend
+BUY position terminated at 14:58 Prices: 315.37 -> 311.428 Profit: -3.9420000000000073
+
+SELL position triggered at 2024-01-02 14:59 during Bullish trend
+SELL position terminated at 15:20 Prices: 311.01 -> 307.122 Profit: 3.887999999999977
+
+SELL position triggered at 2024-01-02 20:09 during Bullish trend
+Processing data for 2024-01-03
+High: 321.14 0.786: 317.665 Mid:313.02 0.236: 308.733 Low: 304.9 PrevTrend: Bullish
+SELL position terminated at 05:21 Prices: 311.01 -> 314.898 Profit: -3.8880000000000337
+
+BUY position triggered at 2024-01-03 06:10 during Bullish trend
+BUY position terminated at 06:35 Prices: 317.665 -> 321.636 Profit: 3.9710000000000036
+
+BUY position triggered at 2024-01-03 06:36 during Bullish trend
+BUY position terminated at 07:47 Prices: 321.14 -> 317.126 Profit: -4.01400000000001
+
+BUY position triggered at 2024-01-03 08:02 during Bullish trend
+BUY position terminated at 09:36 Prices: 317.665 -> 321.636 Profit: 3.9710000000000036
+
+SELL position triggered at 2024-01-03 12:01 during Bullish trend
+Trade Deleted
+SELL position triggered at 2024-01-03 12:06 during Bullish trend
+SELL position terminated at 12:08 Prices: 313.02 -> 309.107 Profit: 3.912999999999954
+
+SELL position triggered at 2024-01-03 12:55 during Bullish trend
+SELL position terminated at 12:56 Prices: 313.02 -> 316.933 Profit: -3.913000000000011
+
+BUY position triggered at 2024-01-03 12:57 during Bullish trend
+BUY position terminated at 13:00 Prices: 317.665 -> 313.694 Profit: -3.9710000000000036
+
+Processing data for 2024-01-04
+High: 334.3 0.786: 323.831 Mid:309.84 0.236: 296.925 Low: 285.38 PrevTrend: Bullish
+BUY position triggered at 2024-01-04 09:34 during Bullish trend
+BUY position terminated at 10:17 Prices: 323.831 -> 319.783 Profit: -4.048000000000002
+
+Processing data for 2024-01-05
+High: 324.15 0.786: 321.246 Mid:317.365 0.236: 313.783 Low: 310.58 PrevTrend: Bullish
+BUY position triggered at 2024-01-05 00:21 during Bullish trend
+BUY position terminated at 01:48 Prices: 324.15 -> 320.098 Profit: -4.051999999999964
+
+SELL position triggered at 2024-01-05 01:49 during Bullish trend
+SELL position terminated at 01:54 Prices: 317.365 -> 321.332 Profit: -3.9669999999999845
+
+SELL position triggered at 2024-01-05 01:55 during Bullish trend
+SELL position terminated at 06:27 Prices: 321.246 -> 317.23 Profit: 4.015999999999963
+
+Processing data for 2024-01-06
+High: 326.6 0.786: 322.62 Mid:317.3 0.236: 312.39 Low: 308.0 PrevTrend: Bullish
+Processing data for 2024-01-07
+High: 317.14 0.786: 313.476 Mid:308.58 0.236: 304.06 Low: 300.02 PrevTrend: Neutral
+SELL position triggered at 2024-01-07 07:44 during Neutral trend
+SELL position terminated at 15:26 Prices: 308.58 -> 304.723 Profit: 3.856999999999971
+
+BUY position triggered at 2024-01-07 15:37 during Neutral trend
+BUY position terminated at 22:34 Prices: 304.06 -> 300.259 Profit: -3.8009999999999877
+
+BUY position triggered at 2024-01-07 22:36 during Neutral trend
+Processing data for 2024-01-08
+High: 309.41 0.786: 307.225 Mid:304.305 0.236: 301.61 Low: 299.2 PrevTrend: Neutral
+BUY position terminated at 02:13 Prices: 300.02 -> 296.27 Profit: -3.75
+
+BUY position triggered at 2024-01-08 07:19 during Neutral trend
+BUY position terminated at 18:00 Prices: 299.2 -> 302.94 Profit: 3.740000000000009
+
+SELL position triggered at 2024-01-08 18:13 during Neutral trend
+Processing data for 2024-01-09
+High: 307.81 0.786: 303.821 Mid:298.49 0.236: 293.569 Low: 289.17 PrevTrend: Neutral
+SELL position terminated at 00:34 Prices: 304.305 -> 300.501 Profit: 3.8040000000000305
+
+BUY position triggered at 2024-01-09 00:38 during Neutral trend
+BUY position terminated at 04:55 Prices: 298.49 -> 302.221 Profit: 3.7309999999999945
+
+BUY position triggered at 2024-01-09 04:59 during Neutral trend
+BUY position terminated at 12:56 Prices: 303.821 -> 300.023 Profit: -3.798000000000002
+
+SELL position triggered at 2024-01-09 12:57 during Neutral trend
+SELL position terminated at 13:20 Prices: 298.49 -> 302.221 Profit: -3.7309999999999945
+
+Processing data for 2024-01-10
+High: 306.9 0.786: 304.535 Mid:301.375 0.236: 298.458 Low: 295.85 PrevTrend: Neutral
+SELL position triggered at 2024-01-10 00:00 during Neutral trend
+SELL position terminated at 12:23 Prices: 301.375 -> 297.608 Profit: 3.766999999999996
+
+BUY position triggered at 2024-01-10 12:46 during Neutral trend
+BUY position terminated at 12:53 Prices: 295.85 -> 292.152 Profit: -3.698000000000036
+
+BUY position triggered at 2024-01-10 21:11 during Neutral trend
+BUY position terminated at 21:57 Prices: 298.458 -> 302.189 Profit: 3.7309999999999945
+
+BUY position triggered at 2024-01-10 22:11 during Neutral trend
+BUY position terminated at 23:11 Prices: 304.535 -> 308.342 Profit: 3.8069999999999595
+
+SELL position triggered at 2024-01-10 23:28 during Neutral trend
+Processing data for 2024-01-11
+High: 310.42 0.786: 305.84 Mid:299.72 0.236: 294.07 Low: 289.02 PrevTrend: Neutral
+SELL position terminated at 00:35 Prices: 306.9 -> 303.064 Profit: 3.835999999999956
+
+BUY position triggered at 2024-01-11 01:26 during Neutral trend
+BUY position terminated at 08:23 Prices: 305.84 -> 309.663 Profit: 3.823000000000036
+
+SELL position triggered at 2024-01-11 08:34 during Neutral trend
+SELL position terminated at 08:49 Prices: 310.42 -> 314.3 Profit: -3.8799999999999955
+
+BUY position triggered at 2024-01-11 15:43 during Neutral trend
+BUY position terminated at 16:32 Prices: 305.84 -> 302.017 Profit: -3.822999999999979
+
+Processing data for 2024-01-12
+High: 317.0 0.786: 313.662 Mid:309.2 0.236: 305.082 Low: 301.4 PrevTrend: Neutral
+SELL position triggered at 2024-01-12 00:01 during Neutral trend
+SELL position terminated at 03:11 Prices: 309.2 -> 313.065 Profit: -3.865000000000009
+
+BUY position triggered at 2024-01-12 15:26 during Neutral trend
+BUY position terminated at 16:54 Prices: 305.082 -> 301.268 Profit: -3.8140000000000214
+
+BUY position triggered at 2024-01-12 16:59 during Neutral trend
+BUY position terminated at 17:21 Prices: 301.4 -> 297.632 Profit: -3.7679999999999723
+
+Processing data for 2024-01-13
+High: 313.35 0.786: 308.028 Mid:300.915 0.236: 294.349 Low: 288.48 PrevTrend: Neutral
+BUY position triggered at 2024-01-13 00:49 during Neutral trend
+BUY position terminated at 05:24 Prices: 294.349 -> 298.028 Profit: 3.6790000000000305
+
+SELL position triggered at 2024-01-13 15:32 during Neutral trend
+Processing data for 2024-01-14
+High: 303.27 0.786: 300.636 Mid:297.115 0.236: 293.865 Low: 290.96 PrevTrend: Neutral
+SELL position terminated at 06:03 Prices: 300.915 -> 304.676 Profit: -3.7609999999999673
+
+SELL position triggered at 2024-01-14 12:01 during Neutral trend
+SELL position terminated at 23:53 Prices: 303.27 -> 299.479 Profit: 3.790999999999997
+
+Processing data for 2024-01-15
+High: 306.89 0.786: 305.178 Mid:302.89 0.236: 300.778 Low: 298.89 PrevTrend: Neutral
+BUY position triggered at 2024-01-15 00:02 during Neutral trend
+BUY position terminated at 01:02 Prices: 300.778 -> 304.538 Profit: 3.759999999999991
+
+BUY position triggered at 2024-01-15 02:11 during Neutral trend
+BUY position terminated at 03:22 Prices: 305.178 -> 308.993 Profit: 3.8149999999999977
+
+Processing data for 2024-01-16
+High: 322.23 0.786: 317.383 Mid:310.905 0.236: 304.925 Low: 299.58 PrevTrend: Neutral
+BUY position triggered at 2024-01-16 00:01 during Neutral trend
+BUY position terminated at 14:40 Prices: 317.383 -> 313.416 Profit: -3.9669999999999845
+
+Processing data for 2024-01-17
+High: 318.87 0.786: 317.535 Mid:315.75 0.236: 314.103 Low: 312.63 PrevTrend: Neutral
+SELL position triggered at 2024-01-17 01:30 during Neutral trend
+SELL position terminated at 05:50 Prices: 315.75 -> 311.803 Profit: 3.9470000000000027
+
+BUY position triggered at 2024-01-17 11:36 during Neutral trend
+Trade Deleted
+BUY position triggered at 2024-01-17 11:37 during Neutral trend
+BUY position terminated at 18:26 Prices: 312.63 -> 308.722 Profit: -3.9080000000000155
+
+Processing data for 2024-01-18
+High: 316.16 0.786: 314.022 Mid:311.165 0.236: 308.528 Low: 306.17 PrevTrend: Neutral
+BUY position triggered at 2024-01-18 00:09 during Neutral trend
+BUY position terminated at 10:19 Prices: 308.528 -> 312.385 Profit: 3.856999999999971
+
+BUY position triggered at 2024-01-18 10:52 during Neutral trend
+Processing data for 2024-01-19
+High: 315.0 0.786: 312.978 Mid:310.275 0.236: 307.78 Low: 305.55 PrevTrend: Neutral
+BUY position terminated at 13:39 Prices: 311.165 -> 315.055 Profit: 3.8899999999999864
+
+SELL position triggered at 2024-01-19 13:40 during Neutral trend
+SELL position terminated at 15:45 Prices: 315.0 -> 311.062 Profit: 3.937999999999988
+
+BUY position triggered at 2024-01-19 16:09 during Neutral trend
+BUY position terminated at 16:40 Prices: 310.275 -> 306.397 Profit: -3.877999999999986
+
+BUY position triggered at 2024-01-19 16:42 during Neutral trend
+BUY position terminated at 17:15 Prices: 305.55 -> 309.369 Profit: 3.819000000000017
+
+BUY position triggered at 2024-01-19 19:48 during Neutral trend
+Processing data for 2024-01-20
+High: 315.75 0.786: 313.351 Mid:310.145 0.236: 307.186 Low: 304.54 PrevTrend: Neutral
+BUY position terminated at 21:35 Prices: 312.978 -> 316.89 Profit: 3.9119999999999777
+
+Processing data for 2024-01-21
+High: 317.14 0.786: 316.014 Mid:314.51 0.236: 313.121 Low: 311.88 PrevTrend: Neutral
+SELL position triggered at 2024-01-21 00:04 during Neutral trend
+SELL position terminated at 19:20 Prices: 317.14 -> 321.104 Profit: -3.9639999999999986
+
+Processing data for 2024-01-22
+High: 321.58 0.786: 320.394 Mid:318.81 0.236: 317.347 Low: 316.04 PrevTrend: Neutral
+SELL position triggered at 2024-01-22 00:00 during Neutral trend
+SELL position terminated at 01:22 Prices: 318.81 -> 314.825 Profit: 3.9850000000000136
+
+BUY position triggered at 2024-01-22 01:25 during Neutral trend
+BUY position terminated at 09:52 Prices: 316.04 -> 312.09 Profit: -3.9500000000000455
+
+Processing data for 2024-01-23
+High: 320.0 0.786: 316.426 Mid:311.65 0.236: 307.241 Low: 303.3 PrevTrend: Neutral
+BUY position triggered at 2024-01-23 01:08 during Neutral trend
+BUY position terminated at 04:28 Prices: 307.241 -> 311.082 Profit: 3.841000000000008
+
+BUY position triggered at 2024-01-23 07:49 during Neutral trend
+BUY position terminated at 08:50 Prices: 307.241 -> 303.4 Profit: -3.841000000000008
+
+BUY position triggered at 2024-01-23 09:02 during Neutral trend
+BUY position terminated at 09:22 Prices: 303.3 -> 299.509 Profit: -3.790999999999997
+
+
+Profits made in percentage:
+Week 38 of 2023: -1.2
+  2023-09-18: 0.0
+  2023-09-19: 1.2
+  2023-09-20: 0.0
+  2023-09-21: -1.2
+  2023-09-22: 0.0
+  2023-09-23: 0.0
+  2023-09-24: -1.2
+Week 39 of 2023: 8.8
+  2023-09-25: 1.2
+  2023-09-26: 1.2
+  2023-09-27: 1.2
+  2023-09-28: 1.2
+  2023-09-29: 1.2
+  2023-09-30: 1.2
+  2023-10-01: 1.2
+Week 40 of 2023: -1.2
+  2023-10-02: 1.2
+  2023-10-03: 0.0
+  2023-10-04: -1.2
+  2023-10-05: 0.0
+  2023-10-06: 0.0
+  2023-10-07: 0.0
+  2023-10-08: -1.2
+Week 41 of 2023: -5.0
+  2023-10-09: -2.5
+  2023-10-10: -2.5
+  2023-10-11: 0.0
+  2023-10-12: 0.0
+  2023-10-13: 1.2
+  2023-10-14: 0.0
+  2023-10-15: -1.2
+Week 42 of 2023: 5.0
+  2023-10-16: 0.0
+  2023-10-17: 0.0
+  2023-10-18: 0.0
+  2023-10-19: 1.2
+  2023-10-20: 1.2
+  2023-10-21: 1.2
+  2023-10-22: 1.2
+Week 43 of 2023: 1.2
+  2023-10-23: 0.0
+  2023-10-24: -1.2
+  2023-10-25: 0.0
+  2023-10-26: 0.0
+  2023-10-27: 1.2
+  2023-10-28: 0.0
+  2023-10-29: 1.2
+Week 44 of 2023: -3.8
+  2023-10-30: -1.2
+  2023-10-31: -1.2
+  2023-11-01: -2.5
+  2023-11-02: 3.8
+  2023-11-03: 0.0
+  2023-11-04: -1.2
+  2023-11-05: -1.2
+Week 45 of 2023: 10.0
+  2023-11-06: -1.2
+  2023-11-07: 3.8
+  2023-11-08: 0.0
+  2023-11-09: 2.5
+  2023-11-10: 1.2
+  2023-11-11: 1.2
+  2023-11-12: 2.5
+Week 46 of 2023: -2.5
+  2023-11-13: -2.5
+  2023-11-14: -2.5
+  2023-11-15: 1.2
+  2023-11-16: -2.5
+  2023-11-17: 1.2
+  2023-11-18: 1.2
+  2023-11-19: 1.2
+Week 47 of 2023: 1.2
+  2023-11-20: 2.5
+  2023-11-21: -2.5
+  2023-11-22: 0.0
+  2023-11-23: 1.2
+  2023-11-24: 1.2
+  2023-11-25: 1.2
+  2023-11-26: -2.5
+Week 48 of 2023: -5.0
+  2023-11-27: -2.5
+  2023-11-28: -1.2
+  2023-11-29: -1.2
+  2023-11-30: 0.0
+  2023-12-01: 0.0
+  2023-12-02: 0.0
+  2023-12-03: 0.0
+Week 49 of 2023: 6.2
+  2023-12-04: 2.5
+  2023-12-05: 0.0
+  2023-12-06: 1.2
+  2023-12-07: 1.2
+  2023-12-08: 2.5
+  2023-12-09: -1.2
+  2023-12-10: 0.0
+Week 50 of 2023: 1.2
+  2023-12-11: 3.8
+  2023-12-12: 1.2
+  2023-12-13: -1.2
+  2023-12-14: 0.0
+  2023-12-15: 0.0
+  2023-12-16: 0.0
+  2023-12-17: -2.5
+Week 51 of 2023: -2.5
+  2023-12-18: 0.0
+  2023-12-19: -1.2
+  2023-12-20: 0.0
+  2023-12-21: -1.2
+  2023-12-22: -3.8
+  2023-12-23: 1.2
+  2023-12-24: 2.5
+Week 52 of 2023: 10.0
+  2023-12-25: 1.2
+  2023-12-26: 1.2
+  2023-12-27: 3.8
+  2023-12-28: 3.8
+  2023-12-29: -1.2
+  2023-12-30: 0.0
+  2023-12-31: 1.2
+Week 1 of 2024: -5.0
+  2024-01-01: 0.0
+  2024-01-02: -1.2
+  2024-01-03: -1.2
+  2024-01-04: -1.2
+  2024-01-05: -1.2
+  2024-01-06: 0.0
+  2024-01-07: 0.0
+Week 2 of 2024: 0.0
+  2024-01-08: 0.0
+  2024-01-09: 0.0
+  2024-01-10: 2.5
+  2024-01-11: 0.0
+  2024-01-12: -3.8
+  2024-01-13: 1.2
+  2024-01-14: 0.0
+Week 3 of 2024: 5.0
+  2024-01-15: 2.5
+  2024-01-16: -1.2
+  2024-01-17: 0.0
+  2024-01-18: 1.2
+  2024-01-19: 2.5
+  2024-01-20: 1.2
+  2024-01-21: -1.2
+Week 4 of 2024: -1.2
+  2024-01-22: 0.0
+  2024-01-23: -1.2
+
+Best Day: 2023-11-02 with a gain of 3.8%
+Worst Day: 2023-12-22 with a loss of -3.8%
+Best Week: Week 45 of 2023 with a gain of 10.0%
+Worst Week: Week 41 of 2023 with a loss of -5.0%
+Best Month: 2023-12 with a gain of 15.0%
+Worst Month: 2023-10 with a loss of -1.2%
+Amount of positive monthly gains: 3 Amount of negative monthly gains: 2
+
+Trade Performance:
+Trigger: hit_fibo_0_236_from_below Neutral
+  Successful Trades: 13
+  Failed Trades: 6
+  Total Trades: 19
+  Success Percentage: 68.4%
+
+Trigger: hit_mid_from_above Neutral
+  Successful Trades: 14
+  Failed Trades: 10
+  Total Trades: 24
+  Success Percentage: 58.3%
+
+Trigger: hit_fibo_0_786_from_above Bullish
+  Successful Trades: 8
+  Failed Trades: 6
+  Total Trades: 14
+  Success Percentage: 57.1%
+
+Trigger: hit_high_from_below Bullish
+  Successful Trades: 12
+  Failed Trades: 9
+  Total Trades: 21
+  Success Percentage: 57.1%
+
+Trigger: hit_mid_from_below Neutral
+  Successful Trades: 9
+  Failed Trades: 7
+  Total Trades: 16
+  Success Percentage: 56.2%
+
+Trigger: hit_fibo_0_786_from_below Neutral
+  Successful Trades: 11
+  Failed Trades: 9
+  Total Trades: 20
+  Success Percentage: 55.0%
+
+Trigger: hit_mid_from_above Bullish
+  Successful Trades: 17
+  Failed Trades: 14
+  Total Trades: 31
+  Success Percentage: 54.8%
+
+Trigger: hit_fibo_0_786_from_below Bullish
+  Successful Trades: 6
+  Failed Trades: 5
+  Total Trades: 11
+  Success Percentage: 54.5%
+
+Trigger: hit_fibo_0_786_from_above Neutral
+  Successful Trades: 10
+  Failed Trades: 9
+  Total Trades: 19
+  Success Percentage: 52.6%
+
+Trigger: hit_high_from_below Neutral
+  Successful Trades: 12
+  Failed Trades: 13
+  Total Trades: 25
+  Success Percentage: 48.0%
+
+Trigger: hit_low_from_above Neutral
+  Successful Trades: 13
+  Failed Trades: 16
+  Total Trades: 29
+  Success Percentage: 44.8%
+
+Trigger: hit_fibo_0_236_from_above Neutral
+  Successful Trades: 11
+  Failed Trades: 15
+  Total Trades: 26
+  Success Percentage: 42.3%
+
+
+Total amount of Trades: 255 Trades won: 136 Trades lost: 119
+Trades won percentage: 53.333333333333336%
+Maximum percent gain: 23.75
+Maximum percent loss: -1.25
+Total percent gain: 21.25
